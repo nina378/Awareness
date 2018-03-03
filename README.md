@@ -34,3 +34,6 @@ Zip code - ZIP. In lower case, no white spaces. Use only the first 5 digits for 
 Country code - COUNTRY. 2-letter country codes in ISO 3166-1 alpha-2.
 
 Mobile advertiser id - MADID, all lower case. Keep hyphens.
+
+##Infographic on what data the biggest Tech Companies collect
+https://datafloq.com/read/what-data-do-the-five-largest-tech-companies-colle/427
